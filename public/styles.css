@@ -9,6 +9,7 @@ html {
 body {
   background: #e8ffff;
   padding: 0 16px;
+  overflow: hidden;
 }
 
 header {
